@@ -1,4 +1,6 @@
+mod problem4;
 
 fn main () {
-  println!("Hi!");
+  let x = problem4::solve();
+  println!("Result: {}", x);
 }
