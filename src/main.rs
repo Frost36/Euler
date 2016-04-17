@@ -1,6 +1,6 @@
-mod problem4;
+mod problem6;
 
 fn main () {
-  let x = problem4::solve();
+  let x = problem6::solve();
   println!("Result: {}", x);
 }
